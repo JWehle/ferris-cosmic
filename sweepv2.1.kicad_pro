@@ -650,7 +650,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "sweep2gerber",
+      "plot": "ferris_cosmic_gerbers",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
